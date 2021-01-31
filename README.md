@@ -1,1 +1,1 @@
-Iniciando Projeto Portifólio Front-End
+Iniciando Projeto Portfólio Front-End
